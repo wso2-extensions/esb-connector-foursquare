@@ -4,7 +4,7 @@
     "category": "Social Media",
     "documentationUrl": "https://docs.wso2.com/display/ESBCONNECTORS/Foursquare+Connector",
     "description": "The Foursquare connector allows you to access the Foursquare REST API through WSO2 ESB. Foursquare is a local search and discovery service mobile app which provides a personalised local search experience for its users.",
-    "status": "Active",
+    "status": "Inactive",
     "labels": [
         "connector"
     ],
